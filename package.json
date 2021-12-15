@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-visualizer",
+  "version": "1.0.0",
+  "description": "Ever stumbled upon a pathfinding algorithm or stuck at finding paths in a grid? Try using this Visualizer Tool and see the algorithms in action.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvrajverma01/Algorithms-Visualizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvrajverma01/Algorithms-Visualizer/issues"
+  },
+  "homepage": "https://github.com/yuvrajverma01/Algorithms-Visualizer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
