@@ -14,7 +14,7 @@ The project is called Algorithms Visualizer, aptly because it pretty much does w
 
 ## 🤷🏼‍♂️ About This Project
 
-Access the site a Google Chrome: https://clementmihailescu.github.io/Pathfinding-Visualizer/
+Access the site a Google Chrome: https://yuvrajverma01.github.io/Algorithms-Visualizer/#
 
 ### Currently supported algorithms are:
 
