@@ -2,7 +2,7 @@
 
 ![Forks](https://img.shields.io/github/forks/yuvrajverma01/Algorithms-Visualizer?logo=GITHUB&style=for-the-badge)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=for-the-badge)](https://github.com/yuvrajverma01/Algorithms-Visualizer)
-[![Stargazers](https://img.shields.io/github/stars/yuvrajverma01/Dev-Circle-React-App?logo=github&style=for-the-badge)](https://github.com/yuvrajverma01/Algorithms-Visualizer/stargazers)
+[![Stargazers](https://img.shields.io/github/stars/yuvrajverma01/Algorithms-Visualizer?logo=github&style=for-the-badge)](https://github.com/yuvrajverma01/Algorithms-Visualizer/stargazers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajverma01/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuvrajverma01)
 
@@ -14,7 +14,7 @@ The project is called Algorithms Visualizer, aptly because it pretty much does w
 
 ## 🤷🏼‍♂️ About This Project
 
-Access the site a Google Chrome: https://clementmihailescu.github.io/Pathfinding-Visualizer/
+Access the site a Google Chrome: https://yuvrajverma01.github.io/Algorithms-Visualizer/#
 
 ### Currently supported algorithms are:
 
