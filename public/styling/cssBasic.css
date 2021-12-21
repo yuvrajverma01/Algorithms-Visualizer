@@ -4844,6 +4844,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
   border: none;
   border-radius: 0px;
 }
+
 @media (min-width: 768px) {
   .navbar-header {
     float: left;
@@ -4883,20 +4884,18 @@ fieldset[disabled] .input-group-btn .btn-default.active {
 }
 .navbar .container,
 .navbar .container-fluid {
-  padding-left: 21px;
-  padding-right: 21px;
   padding-top: 10px;
   display: flex;
   justify-content: center;
 }
-/* .navbar .container > .navbar-header,
+.navbar .container > .navbar-header,
 .navbar .container-fluid > .navbar-header,
 .navbar .container > .navbar-collapse,
 .navbar .container-fluid > .navbar-collapse {
   margin-right: -21px;
   margin-left: -21px;
 } */
-/* @media (min-width: 768px) {
+/* /* @media (min-width: 768px) {
   .navbar .container > .navbar-header,
   .navbar .container-fluid > .navbar-header,
   .navbar .container > .navbar-collapse,
@@ -4929,6 +4928,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
   font-weight: 700;
   padding: 14px 21px;
 }
+
 .navbar-brand > [class*="fui-"] {
   font-size: 19px;
   line-height: 1.263;
