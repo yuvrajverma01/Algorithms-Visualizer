@@ -16,6 +16,8 @@ The project is called Algorithms Visualizer, aptly because it pretty much does w
 
 Access the site a Google Chrome: https://yuvrajverma01.github.io/Algorithms-Visualizer/#
 
+![](./public/styling/1.gif)
+
 ### Currently supported algorithms are:
 
 - Dijkstra's Algorithm (Weighted)
