@@ -6,17 +6,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajverma01/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuvrajverma01)
 
-# Algorithms Visualizer
+# <img src="./public/styling/favic.png" alt="" width="25" height="25"/>  Algorithms Visualizer
 
 </div>
 
 The project is called Algorithms Visualizer, aptly because it pretty much does what it says, it finds a path from a source to a destination. This project is based on graph theory.
 
+![](./public/styling/2.gif)
+
 ## 🤷🏼‍♂️ About This Project
 
 Access the site a Google Chrome: https://yuvrajverma01.github.io/Algorithms-Visualizer/#
-
-![](./public/styling/1.gif)
 
 ### Currently supported algorithms are:
 
@@ -37,6 +37,8 @@ Path finding algorithms are important because they are used in applications like
 ### Weighted v/s Unweighted Graphs
 
 If edges in your graph have weights then your graph is said to be a weighted graph, if the edges do not have weights, the graph is said to be unweighted. A weight is a numerical value attached to each individual edge. In a weighted graph relationships between nodes have a magnitude and this magnitude is important to the relationship we’re studying.
+
+![](./public/styling/1.gif)
 
 ## ⚡ TechStack Used
 
